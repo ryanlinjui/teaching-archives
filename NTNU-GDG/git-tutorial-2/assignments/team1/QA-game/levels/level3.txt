@@ -1,0 +1,2 @@
+Question: What is worst case time complexity of Quick Sort ?
+Answer: O(n^2)
